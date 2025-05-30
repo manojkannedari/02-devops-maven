@@ -33,7 +33,15 @@
     <version>5.2.23.RELEASE</version>
 </dependency>
 
+<<<<<<< HEAD
 
+=======
+      <dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-contet</artifactId>
+    <version>5.2.23.RELEASE</version>
+</dependency>
+>>>>>>> d9964949e0b1234bb5ca9cf88a27a7c7a51da28c
     </dependencies>
   </dependencyManagement>
 
