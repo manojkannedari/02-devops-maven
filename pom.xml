@@ -32,6 +32,12 @@
     <artifactId>spring-core</artifactId>
     <version>5.2.23.RELEASE</version>
 </dependency>
+
+      <dependency>
+    <groupId>org.springframework</groupId>
+    <artifactId>spring-contet</artifactId>
+    <version>5.2.23.RELEASE</version>
+</dependency>
     </dependencies>
   </dependencyManagement>
 
